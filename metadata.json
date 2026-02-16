@@ -1,0 +1,7 @@
+{
+  "name": "city Dashboard",
+  "description": "A demonstration dashboard featuring a StatCard component built with Material-UI and Tailwind CSS.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
